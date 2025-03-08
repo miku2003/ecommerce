@@ -1,5 +1,3 @@
-Hi Dear, 
-Thank you for claiming this project!
 
 Here are the steps to setup:
 
