@@ -33,7 +33,7 @@ http://localhost:3000/admin
 
 Login with the following credentials:
 
-Email: ritik@gmail.com  
+Email: km@gmail.com  
 Password: 12345678  
 
 Manually add an Admin user.
@@ -44,7 +44,7 @@ Step 5: Create Branch & Assign Delivery Partner
 In the Admin Panel, create a Branch and a Delivery Partner with nearby location (latitude, longitude, and address).
 Link and assign both accordingly.
 
-🎉 Server setup complete!
+Server setup complete!!
 
 2️⃣ Client Setup
 
@@ -75,10 +75,10 @@ npm run ios
 
 Step 5: Real Device Configuration (Optional)
 
-If using a real device, update config.tsx with your local IP address as mentioned in the file.
-🎉 Client setup complete!
+If using a real device, update config.tsx with your local IP address as mentioned in the file. 
+Client setup complete!
 
-✅ Wohoo! Setup is now complete! 🚀
+✅ Setup is now complete! 
 
 
 
