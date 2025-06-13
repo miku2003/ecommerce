@@ -1,0 +1,21 @@
+Server Setup 
+1) Navigate to the server directory. 
+2) Install dependencies:  npm i --force
+3) Start the server: npm start 
+4) http://localhost:3000/admin Once the server has started, click this link in your browser. 
+5) Login Credentials (Admin Panel) 
+• Email: km@gmail.com 
+• Password: 12345678 
+
+Client Setup 
+1) Navigate to the client directory 
+2) Install dependencies:  npm i --force
+3) Start the Application:  
+• For Android: npm run android 
+• For iOS: npm run ios 
+4) Login Credentials: 
+• (Delivery Partner)  
+➢ Email: delivery@gmail.com 
+➢ Password: 12345678 
+• (Customer User) 
+➢ 7622253344
